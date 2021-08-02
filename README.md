@@ -1,5 +1,5 @@
 # Portfolio
-In this repository you will find some of the various projects I have worked on over the years. Here is a brief description for each of my projects:
+In this repository you will find some of the various projects I have worked on over the last few years. Here is a brief description for each of my projects:
 - **PureCycle Exploratory Data Analysis:**
   In this project I use Python, Jupyter notebooks, and various open source libraries to do exploratory data analysis around PureCycle's stock. Note that this is my most recent project.
 - **Schwarz Christoffel Transformations:**
