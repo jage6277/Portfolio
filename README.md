@@ -7,6 +7,6 @@ In this repository you will find some of the various projects I have worked on o
 - **Propagation of Voltage in a Neuron:**
   This project involves Fourier Series and has both theoretical and computational components. 
 - **Discrete Structures:**
-  In this section you will find a few code samples from my discrete structures class. Note that I am planning to add more to this section soon.  
+  In this section you will find a few code samples from my discrete structures class. 
  - **Drug Discovery Research Poster:**
   In this section you will find the poster a team and I presented at The Univervisty of Colorado Boulder's 2019 CURE Symposium. My team and I tested a potential cancer treatment, gathered and analyzed data, and presented our findings at a poster session.  
