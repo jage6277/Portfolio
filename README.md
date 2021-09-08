@@ -9,4 +9,4 @@ In this repository you will find some of the various projects I have worked on o
 - **Discrete Structures:**
   In this section you will find a few code samples from my discrete structures class. 
  - **Drug Discovery Research Poster:**
-  In this section you will find the poster a team and I presented at The Univervisty of Colorado Boulder's 2019 CURE Symposium for a molecular biology class. My team and I tested a potential cancer treatment, gathered and analyzed data, and presented our findings at a poster session.  
+  In this section you will find the poster a team and I presented at The University of Colorado Boulder's 2019 CURE Symposium for a molecular biology class. My team and I tested a potential cancer treatment, gathered and analyzed data, and presented our findings at a poster session.  
